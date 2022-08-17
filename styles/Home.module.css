@@ -1,3 +1,12 @@
+
+.socials {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+}
+
 .container {
   padding: 0 2rem;
 }
@@ -51,7 +60,7 @@
 }
 
 .description {
-  margin: 4rem 0;
+  margin: 2rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
 }
@@ -84,6 +93,7 @@
   transition: color 0.15s ease, border-color 0.15s ease;
   max-width: 300px;
 }
+
 
 .card:hover,
 .card:focus,

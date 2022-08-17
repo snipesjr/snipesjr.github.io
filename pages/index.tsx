@@ -3,7 +3,7 @@ import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Link from "next/link";
 
-import { GithubIcon, LinkedInIcon} from "../components/icons";
+import { GithubIcon, LinkedInIcon} from '../components/icons';
 
 
 const Home: NextPage = () => {

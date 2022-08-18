@@ -5,7 +5,7 @@ import Link from "next/link";
 
 import Container from '../components/container'
 import Layout from '../components/layout'
-import Intro from '../components/intro'
+import About from '../components/about'
 
 type Post = {
     title: string,
@@ -24,7 +24,7 @@ export default function Index({}: Props) {
                     <title>Jake Snipes Personal Website Homepage</title>
                 </Head>
                 <Container>
-                    <Intro></Intro>
+                    <About></About>
                 </Container>
             </Layout>
         </>

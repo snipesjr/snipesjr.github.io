@@ -10,10 +10,10 @@ const About = () => {
                             Hi, I&apos;m Jake Snipes!
                         </h2>
                         <h4 className={"pt-6 font-header text-xl font-medium text-black sm:text-2xl lg:text-3xl"}>
-                            I am on the job hunt.
+                            I like using data to solve problems and answer questions.
                         </h4>
                         <p className="pt-6 font-body leading-relaxed text-grey-20">
-                            I am searching for a leadership role in Data & Analytics.
+                            I am searching for my next leadership role in Data & Analytics.
                         </p>
                         <div className="flex flex-col justify-center pt-6 sm:flex-row lg:justify-start">
                             <div className="flex items-center justify-center sm:justify-start">
